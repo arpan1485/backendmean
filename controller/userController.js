@@ -32,7 +32,7 @@ exports.registerUsers = (req, res, next) => {
             res.json(err);
 
         } else {
-            res.json({ msg: "user added succesfully" });
+            res.json({ msg: "user added succesfully." });
         }
     });
 
