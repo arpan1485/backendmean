@@ -1,20 +1,17 @@
-Technologies:
+**Technologies:**
 
-node js
+_node js
 express
 mongo
 mongoose
-
+_
 
 Great! we are working with a popular stack using Node.js, Express, MongoDB, and Mongoose. This stack is widely used for building backend APIs, web applications, and services. Here's a quick overview of the technologies and how they work together, followed by a basic example setup:
 
 
-**
-Technologies Overview
-**
+**Technologies Overview**
 
-Node.js:
-
+**Node.js:**
 
 
 JavaScript runtime built on Chrome's V8 engine.
@@ -23,8 +20,7 @@ Allows you to run JavaScript on the server side.
 
 Excellent for building scalable and efficient server-side applications.
 
-**
-Express.js:**
+**Express.js:**
 
 A lightweight and flexible Node.js web application framework.
 Simplifies handling routes, middleware, and request/response logic.
@@ -36,8 +32,7 @@ A NoSQL database that stores data in flexible, JSON-like documents.
 Ideal for applications that require a dynamic schema.
 
 
-**Mongoose:
-**
+**Mongoose:**
 
 
 An Object Data Modeling (ODM) library for MongoDB.
